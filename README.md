@@ -1,7 +1,7 @@
 # Nishant_Portfolio
 #Data Science portfolio
 
-#Project 1: Fake News Detection
+[#Project 1: Fake News Detection] (https://github.com/Nishn3/CodeClause-Fake-News-Detection)
 
 * In this project, I focused on fake news detection using Python and the Visual Code Studio IDE. The goal was to build a machine-learning model to classify news articles as real or fake based on their content. 
 * Leveraging Python and popular libraries like pandas, numpy, and sci-kit-learn, I handled the data, performed preprocessing, and implemented the machine learning algorithm. By utilizing TF-IDF vectorization, I transformed the textual data into numerical features and trained a PassiveAggressiveClassifier model. 
